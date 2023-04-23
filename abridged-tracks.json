@@ -1,0 +1,122 @@
+[
+  {
+    "genre": "Pop",
+    "views": 1000,
+    "artist": "Adele",
+    "title": "Hello"
+  },
+  {
+    "genre": "Rock",
+    "views": 500,
+    "artist": "The Beatles",
+    "title": "Let It Be"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 800,
+    "artist": "Kendrick Lamar",
+    "title": "HUMBLE."
+  },
+  {
+    "genre": "RnB",
+    "views": 1200,
+    "artist": "Beyoncé",
+    "title": "Formation"
+  },
+  {
+    "genre": "Electronic",
+    "views": 300,
+    "artist": "Daft Punk",
+    "title": "Get Lucky"
+  },
+  {
+    "genre": "Alternative",
+    "views": 400,
+    "artist": "Arctic Monkeys",
+    "title": "Do I Wanna Know?"
+  },
+  {
+    "genre": "Pop",
+    "views": 2000,
+    "artist": "Ed Sheeran",
+    "title": "Shape of You"
+  },
+  {
+    "genre": "Rock",
+    "views": 100,
+    "artist": "Queen",
+    "title": "Bohemian Rhapsody"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 1500,
+    "artist": "Drake",
+    "title": "In My Feelings"
+  },
+  {
+    "genre": "RnB",
+    "views": 900,
+    "artist": "Frank Ocean",
+    "title": "Nights"
+  },
+  {
+    "genre": "Pop",
+    "views": 300,
+    "artist": "Taylor Swift",
+    "title": "Shake It Off"
+  },
+  {
+    "genre": "Rock",
+    "views": 700,
+    "artist": "Led Zeppelin",
+    "title": "Stairway to Heaven"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 200,
+    "artist": "Eminem",
+    "title": "Lose Yourself"
+  },
+  {
+    "genre": "Electronic",
+    "views": 1000,
+    "artist": "The Chemical Brothers",
+    "title": "Block Rockin' Beats"
+  },
+  {
+    "genre": "Alternative",
+    "views": 800,
+    "artist": "Radiohead",
+    "title": "Karma Police"
+  },
+  {
+    "genre": "Pop",
+    "views": 1500,
+    "artist": "Justin Bieber",
+    "title": "Sorry"
+  },
+  {
+    "genre": "Rock",
+    "views": 600,
+    "artist": "Guns N' Roses",
+    "title": "Sweet Child o' Mine"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 400,
+    "artist": "Kanye West",
+    "title": "Stronger"
+  },
+  {
+    "genre": "RnB",
+    "views": 1200,
+    "artist": "The Weeknd",
+    "title": "Blinding Lights"
+  },
+  {
+    "genre": "Electronic",
+    "views": 500,
+    "artist": "Calvin Harris",
+    "title": "This Is What You Came For"
+  }
+]
