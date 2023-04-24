@@ -1,0 +1,377 @@
+[
+  {
+    "genre": "Pop",
+    "views": 1000,
+    "artist": "Adele",
+    "title": "Hello",
+    "duration": 240,
+    "record_label": "XL Recordings"
+  },
+  {
+    "genre": "Rock",
+    "views": 500,
+    "artist": "The Beatles",
+    "title": "Let It Be",
+    "duration": 243,
+    "record_label": "Apple Records"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 800,
+    "artist": "Kendrick Lamar",
+    "title": "HUMBLE.",
+    "duration": 177,
+    "record_label": "Top Dawg Entertainment"
+  },
+  {
+    "genre": "Electronic",
+    "views": 1200,
+    "artist": "Daft Punk",
+    "title": "Get Lucky",
+    "duration": 369,
+    "record_label": "Columbia Records"
+  },
+  {
+    "genre": "R&B",
+    "views": 700,
+    "artist": "Beyoncé",
+    "title": "Formation",
+    "duration": 246,
+    "record_label": "Parkwood Entertainment"
+  },
+  {
+    "genre": "Pop",
+    "views": 900,
+    "artist": "Ed Sheeran",
+    "title": "Shape of You",
+    "duration": 234,
+    "record_label": "Asylum Records"
+  },
+  {
+    "genre": "Rock",
+    "views": 600,
+    "artist": "Queen",
+    "title": "Bohemian Rhapsody",
+    "duration": 354,
+    "record_label": "EMI Records"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 1000,
+    "artist": "Drake",
+    "title": "God's Plan",
+    "duration": 215,
+    "record_label": "Young Money Entertainment"
+  },
+  {
+    "genre": "Pop",
+    "views": 800,
+    "artist": "Justin Bieber",
+    "title": "Sorry",
+    "duration": 200,
+    "record_label": "Def Jam Recordings"
+  },
+  {
+    "genre": "Rock",
+    "views": 400,
+    "artist": "Led Zeppelin",
+    "title": "Stairway to Heaven",
+    "duration": 482,
+    "record_label": "Atlantic Records"
+  },
+  {
+    "genre": "Electronic",
+    "views": 600,
+    "artist": "Calvin Harris",
+    "title": "Summer",
+    "duration": 227,
+    "record_label": "Sony Music"
+  },
+  {
+    "genre": "R&B",
+    "views": 300,
+    "artist": "Frank Ocean",
+    "title": "Thinkin Bout You",
+    "duration": 208,
+    "record_label": "Def Jam Recordings"
+  },
+  {
+    "genre": "Pop",
+    "views": 500,
+    "artist": "Taylor Swift",
+    "title": "Shake It Off",
+    "duration": 219,
+    "record_label": "Big Machine Label Group"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 900,
+    "artist": "Eminem",
+    "title": "Lose Yourself",
+    "duration": 337
+  },
+  {
+    "genre": "Rock",
+    "views": 700,
+    "artist": "Red Hot Chili Peppers",
+    "title": "Californication",
+    "duration": 328,
+    "record_label": "Warner Bros. Records"
+  },
+  {
+    "genre": "Electronic",
+    "views": 800,
+    "artist": "The Chainsmokers",
+    "title": "Closer",
+    "duration": 244,
+    "record_label": "Disruptor Records"
+  },
+  {
+    "genre": "R&B",
+    "views": 600,
+    "artist": "Usher",
+    "title": "Yeah!",
+    "duration": 250,
+    "record_label": "LaFace Records"
+  },
+  {
+    "genre": "Pop",
+    "views": 700,
+    "artist": "Shawn Mendes",
+    "title": "Treat You Better",
+    "duration": 203,
+    "record_label": "Island Records"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 400,
+    "artist": "Kanye West",
+    "title": "Stronger",
+    "duration": 311,
+    "record_label": "Roc-A-Fella Records"
+  },
+  {
+    "genre": "Pop",
+    "views": 600,
+    "artist": "Bruno Mars",
+    "title": "Just the Way You Are",
+    "duration": 221,
+    "record_label": "Atlantic Records"
+  },
+  {
+    "genre": "Rock",
+    "views": 800,
+    "artist": "Guns N' Roses",
+    "title": "Sweet Child o' Mine",
+    "duration": 355,
+    "record_label": "Geffen Records"
+  },
+  {
+    "genre": "Electronic",
+    "views": 500,
+    "artist": "Avicii",
+    "title": "Wake Me Up",
+    "duration": 247,
+    "record_label": "PRMD"
+  },
+  {
+    "genre": "Pop",
+    "views": 550,
+    "artist": "Ariana Grande",
+    "title": "Thank U, Next",
+    "duration": 213,
+    "record_label": "Republic Records"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 600,
+    "artist": "Drake",
+    "title": "In My Feelings",
+    "duration": 320,
+    "record_label": "Cash Money Records"
+  },
+  {
+    "genre": "Electronic",
+    "views": 400,
+    "artist": "Marshmello",
+    "title": "Happier",
+    "duration": 214,
+    "record_label": "Joytime Collective"
+  },
+  {
+    "genre": "R&B",
+    "views": 300,
+    "artist": "Beyoncé",
+    "title": "Crazy in Love",
+    "duration": 229,
+    "record_label": "Columbia Records"
+  },
+  {
+    "genre": "Rock",
+    "views": 600,
+    "artist": "The Beatles",
+    "title": "Hey Jude",
+    "duration": 431,
+    "record_label": "Apple Records"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 350,
+    "artist": "Eminem",
+    "title": "Lose Yourself",
+    "duration": 326,
+    "record_label": "Interscope Records"
+  },
+  {
+    "genre": "R&B",
+    "views": 400,
+    "artist": "Rihanna",
+    "title": "Work",
+    "duration": 219,
+    "record_label": "Roc Nation"
+  },
+  {
+    "genre": "Rock",
+    "views": 450,
+    "artist": "Led Zeppelin",
+    "title": "Stairway to Heaven",
+    "duration": 482,
+    "record_label": "Atlantic Records"
+  },
+  {
+    "genre": "Electronic",
+    "views": 600,
+    "artist": "Calvin Harris",
+    "title": "Summer",
+    "duration": 221,
+    "record_label": "Columbia Records"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 500,
+    "artist": "Kendrick Lamar",
+    "title": "HUMBLE.",
+    "duration": 177,
+    "record_label": "Top Dawg Entertainment"
+  },
+  {
+    "genre": "R&B",
+    "views": 250,
+    "artist": "Frank Ocean",
+    "title": "Thinkin Bout You",
+    "duration": 210,
+    "record_label": "Def Jam Recordings"
+  },
+  {
+    "genre": "Rock",
+    "views": 550,
+    "artist": "The Rolling Stones",
+    "title": "Satisfaction",
+    "duration": 232,
+    "record_label": "London Records"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 400,
+    "artist": "Post Malone",
+    "title": "Circles",
+    "duration": 214,
+    "record_label": "Republic Records"
+  },
+  {
+    "genre": "R&B",
+    "views": 600,
+    "artist": "The Weeknd",
+    "title": "Blinding Lights",
+    "duration": 200,
+    "record_label": "XO Records"
+  },
+  {
+    "genre": "Pop",
+    "views": 700,
+    "artist": "Shawn Mendes",
+    "title": "Señorita",
+    "duration": 190,
+    "record_label": "Island Records"
+  },
+  {
+    "genre": "Pop",
+    "views": 900,
+    "artist": "Adele",
+    "title": "Rolling in the Deep",
+    "duration": 228,
+    "record_label": "XL Recordings"
+  },
+  {
+    "genre": "Electronic",
+    "views": 400,
+    "artist": "Calvin Harris",
+    "title": "This Is What You Came For",
+    "duration": 222,
+    "record_label": "Sony Music, Columbia"
+  },
+  {
+    "genre": "R&B",
+    "views": 600,
+    "artist": "Michael Jackson",
+    "title": "Billie Jean",
+    "duration": 293,
+    "record_label": "Epic Records, CBS"
+  },
+  {
+    "genre": "Pop",
+    "views": 750,
+    "artist": "Ariana Grande",
+    "title": "Thank U, Next",
+    "duration": 207,
+    "record_label": "Republic Records"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 300,
+    "artist": "Kanye West",
+    "title": "Stronger",
+    "duration": 311,
+    "record_label": "Roc-A-Fella, Def Jam"
+  },
+  {
+    "genre": "Rock",
+    "views": 400,
+    "artist": "Guns N' Roses",
+    "title": "Sweet Child o' Mine",
+    "duration": 355,
+    "record_label": "Geffen Records"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 550,
+    "artist": "Travis Scott",
+    "title": "SICKO MODE",
+    "duration": 312,
+    "record_label": "Epic Records, Grand Hustle, Cactus Jack"
+  },
+  {
+    "genre": "Rock",
+    "views": 300,
+    "artist": "Red Hot Chili Peppers",
+    "title": "Under the Bridge",
+    "duration": 265,
+    "record_label": "Warner Bros. Records"
+  },
+  {
+    "genre": "R&B",
+    "views": 450,
+    "artist": "The Weeknd",
+    "title": "Starboy",
+    "duration": 230,
+    "record_label": "XO, Republic Records"
+  },
+  {
+    "genre": "Hip Hop",
+    "views": 350,
+    "artist": "J. Cole",
+    "title": "Middle Child",
+    "duration": 213,
+    "record_label": "Dreamville, Roc Nation, Interscope"
+  }
+]
