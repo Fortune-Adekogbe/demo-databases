@@ -289,22 +289,6 @@
   },
   {
     "genre": "Hip Hop",
-    "views": 300,
-    "artist": "Kanye West",
-    "title": "Stronger",
-    "duration": 311,
-    "record_label": "Roc-A-Fella, Def Jam"
-  },
-  {
-    "genre": "Rock",
-    "views": 400,
-    "artist": "Guns N' Roses",
-    "title": "Sweet Child o' Mine",
-    "duration": 355,
-    "record_label": "Geffen Records"
-  },
-  {
-    "genre": "Hip Hop",
     "views": 550,
     "artist": "Travis Scott",
     "title": "SICKO MODE",
