@@ -352,77 +352,77 @@
     "record_label": null
   },
   {
-"genre": “RnB”,
-"views”: 34567,
-"artiste”: “Beyoncé”,
-"title”: “Halo”,
-"duration”: 227,
-"record_label”: “Columbia Records”
-},
-{
-"genre”: “Metal”,
-"views”: 45678,
-"artiste”: “Metallica”,
-"title”: “Enter Sandman”,
-"duration”: 332,
-"record_label”: “Elektra Records”
-},
-{
-"genre”: “Blues”,
-"views”: 56789,
-"artiste”: “B.B. King”,
-"title”: “The Thrill Is Gone”,
-"duration”: 345,
-"record_label”: “ABC Records”
-},
-{
-"genre”: “Folk”,
-"views”: 78901,
-"artiste”: “Bob Dylan”,
-"title”: “Blowin’ in the Wind”,
-"duration”: 170,
-"record_label”: null
-},
-{
-"genre”: “Soul”,
-"views”: 89012,
-"artiste”: “Aretha Franklin”,
-"title”: “Respect”,
-"duration”: 145,
-"record_label”: “Atlantic Records”
-},
-{
-"genre”: “Funk”,
-"views”: 90123,
-"artiste”: “James Brown”,
-"title”: “I Got You (I Feel Good)”,
-"duration”: 173,
-"record_label”: “King Records”
-},
-{
-"genre”: “Disco”,
-"views”: 10234, 
-"artiste”: “Bee Gees”, 
-"title”: “Stayin’ Alive”, 
-"duration”: 284, 
-"record_label”: “RSO Records”
-},
-{
-“genre“: ”Punk“, 
-“views“: ”11235“, 
-“artiste“: ”The Clash“, 
-“title“: ”London Calling“, 
-“duration“: ”201“, 
-“record_label“: ”CBS Records”
-},
-{
-“genre“: ”indie“, 
-“views“: ”13237“, 
-“artiste“: ”Arcade Fire“, 
-“title“: ”Wake Up“, 
-“duration“: ”336“, 
-“record_label“: ”Merge Records”
-},
+    "genre": "RnB",
+    "views": 34567,
+    "artiste": "Beyoncé",
+    "title": "Halo",
+    "duration": 227,
+    "record_label": "Columbia Records"
+  },
+  {
+    "genre": "Metal",
+    "views": 45678,
+    "artiste": "Metallica",
+    "title": "Enter Sandman",
+    "duration": 332,
+    "record_label": "Elektra Records"
+  },
+  {
+    "genre": "Blues",
+    "views": 56789,
+    "artiste": "B.B. King",
+    "title": "The Thrill Is Gone",
+    "duration": 345,
+    "record_label": "ABC Records"
+  },
+  {
+    "genre": "Folk",
+    "views": 78901,
+    "artiste": "Bob Dylan",
+    "title": "Blowin’ in the Wind",
+    "duration": 170,
+    "record_label": null
+  },
+  {
+    "genre": "Soul",
+    "views": 89012,
+    "artiste": "Aretha Franklin",
+    "title": "Respect",
+    "duration": 145,
+    "record_label": "Atlantic Records"
+  },
+  {
+    "genre": "Funk",
+    "views": 90123,
+    "artiste": "James Brown",
+    "title": "I Got You (I Feel Good)",
+    "duration": 173,
+    "record_label": "King Records"
+  },
+  {
+    "genre": "Disco",
+    "views": 10234,
+    "artiste": "Bee Gees",
+    "title": "Stayin’ Alive",
+    "duration": 284,
+    "record_label": "RSO Records"
+  },
+  {
+    "genre": "Punk",
+    "views": "11235",
+    "artiste": "The Clash",
+    "title": "London Calling",
+    "duration": "201",
+    "record_label": "CBS Records"
+  },
+  {
+    "genre": "indie",
+    "views": "13237",
+    "artiste": "Arcade Fire",
+    "title": "Wake Up",
+    "duration": "336",
+    "record_label": "Merge Records"
+  },
   {
     "genre": "Latin",
     "views": 14238,
@@ -461,46 +461,46 @@
     "artiste": "Frank Sinatra",
     "title": "Fly Me to the Moon",
     "duration": 150,
-    “record_label”: "Reprise Records"
-},
-{
-“genre”: “Grunge”,
-“views”: 19243,
-“artiste”: “Nirvana”,
-“title”: “Smells Like Teen Spirit”,
-“duration”: 301,
-“record_label”: “DGC Records”
-},
-{
-“genre”: “Ska”,
-“views”: 20244,
-“artiste”: “No Doubt”,
-“title”: “Don’t Speak”,
-“duration”: 256,
-“record_label”: “Interscope Records”
-},
-{
-“genre”: “Dance”,
-“views”: 21245,
-“artiste”: “Lady Gaga”,
-“title”: “Bad Romance”,
-“duration”: 295,
-“record_label”: “Interscope Records”
-},
-{
-“genre”: “Pop Punk”,
-“views”: 22246, 
-“artiste”: “Green Day”, 
-“title”: “American Idiot”, 
-“duration”: 176, 
-“record_label”: “Reprise Records”
-},
-{
-"genre": ”Reggaeton“, 
-"views": ”23247“, 
-"artiste": ”Luis Fonsi“, 
-"title": ”Despacito“, 
-"duration": ”229“, 
-"record_label": ”Universal Music Latin”
-}
+    "record_label": "Reprise Records"
+  },
+  {
+    "genre": "Grunge",
+    "views": 19243,
+    "artiste": "Nirvana",
+    "title": "Smells Like Teen Spirit",
+    "duration": 301,
+    "record_label": "DGC Records"
+  },
+  {
+    "genre": "Ska",
+    "views": 20244,
+    "artiste": "No Doubt",
+    "title": "Don’t Speak",
+    "duration": 256,
+    "record_label": "Interscope Records"
+  },
+  {
+    "genre": "Dance",
+    "views": 21245,
+    "artiste": "Lady Gaga",
+    "title": "Bad Romance",
+    "duration": 295,
+    "record_label": "Interscope Records"
+  },
+  {
+    "genre": "Pop Punk",
+    "views": 22246,
+    "artiste": "Green Day",
+    "title": "American Idiot",
+    "duration": 176,
+    "record_label": "Reprise Records"
+  },
+  {
+    "genre": "Reggaeton",
+    "views": "23247",
+    "artiste": "Luis Fonsi",
+    "title": "Despacito",
+    "duration": "229",
+    "record_label": "Universal Music Latin"
+  }
 ]
