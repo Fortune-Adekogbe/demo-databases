@@ -256,14 +256,6 @@
     "record_label": "Island Records"
   },
   {
-    "genre": "Pop",
-    "views": 900,
-    "artist": "Adele",
-    "title": "Rolling in the Deep",
-    "duration": 228,
-    "record_label": "XL Recordings"
-  },
-  {
     "genre": "Electronic",
     "views": 400,
     "artist": "Calvin Harris",
@@ -278,14 +270,6 @@
     "title": "Billie Jean",
     "duration": 293,
     "record_label": "Epic Records, CBS"
-  },
-  {
-    "genre": "Pop",
-    "views": 750,
-    "artist": "Ariana Grande",
-    "title": "Thank U, Next",
-    "duration": 207,
-    "record_label": "Republic Records"
   },
   {
     "genre": "Hip Hop",
