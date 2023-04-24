@@ -4,12 +4,12 @@
     "views": 1000,
     "artist": "Adele",
     "title": "Hello",
-    "duration": 240,
+    "duration": 240213,
     "record_label": "XL Recordings"
   },
   {
     "genre": "Rock",
-    "views": 500,
+    "views": 500453,
     "artist": "The Beatles",
     "title": "Let It Be",
     "duration": 243,
@@ -17,7 +17,7 @@
   },
   {
     "genre": "Hip Hop",
-    "views": 800,
+    "views": 800333,
     "artist": "Kendrick Lamar",
     "title": "HUMBLE.",
     "duration": 177,
@@ -25,7 +25,7 @@
   },
   {
     "genre": "Electronic",
-    "views": 1200,
+    "views": 1200131,
     "artist": "Daft Punk",
     "title": "Get Lucky",
     "duration": 369,
@@ -33,7 +33,7 @@
   },
   {
     "genre": "R&B",
-    "views": 700,
+    "views": 745600,
     "artist": "Beyoncé",
     "title": "Formation",
     "duration": 246,
@@ -41,7 +41,7 @@
   },
   {
     "genre": "Pop",
-    "views": 900,
+    "views": 900000,
     "artist": "Ed Sheeran",
     "title": "Shape of You",
     "duration": 234,
@@ -49,7 +49,7 @@
   },
   {
     "genre": "Rock",
-    "views": 600,
+    "views": 600665,
     "artist": "Queen",
     "title": "Bohemian Rhapsody",
     "duration": 354,
@@ -57,7 +57,7 @@
   },
   {
     "genre": "Hip Hop",
-    "views": 1000,
+    "views": 1000000,
     "artist": "Drake",
     "title": "God's Plan",
     "duration": 215,
@@ -65,7 +65,7 @@
   },
   {
     "genre": "Pop",
-    "views": 800,
+    "views": 800123,
     "artist": "Justin Bieber",
     "title": "Sorry",
     "duration": 200,
@@ -73,7 +73,7 @@
   },
   {
     "genre": "Rock",
-    "views": 400,
+    "views": 430405,
     "artist": "Led Zeppelin",
     "title": "Stairway to Heaven",
     "duration": 482,
@@ -81,7 +81,7 @@
   },
   {
     "genre": "Electronic",
-    "views": 600,
+    "views": 607540,
     "artist": "Calvin Harris",
     "title": "Summer",
     "duration": 227,
@@ -89,7 +89,7 @@
   },
   {
     "genre": "R&B",
-    "views": 300,
+    "views": 304420,
     "artist": "Frank Ocean",
     "title": "Thinkin Bout You",
     "duration": 208,
@@ -97,7 +97,7 @@
   },
   {
     "genre": "Pop",
-    "views": 500,
+    "views": 500900,
     "artist": "Taylor Swift",
     "title": "Shake It Off",
     "duration": 219,
@@ -105,7 +105,7 @@
   },
   {
     "genre": "Rock",
-    "views": 700,
+    "views": 703320,
     "artist": "Red Hot Chili Peppers",
     "title": "Californication",
     "duration": 328,
@@ -113,7 +113,7 @@
   },
   {
     "genre": "Electronic",
-    "views": 800,
+    "views": 803410,
     "artist": "The Chainsmokers",
     "title": "Closer",
     "duration": 244,
@@ -121,7 +121,7 @@
   },
   {
     "genre": "R&B",
-    "views": 600,
+    "views": 600424,
     "artist": "Usher",
     "title": "Yeah!",
     "duration": 250,
@@ -129,7 +129,7 @@
   },
   {
     "genre": "Pop",
-    "views": 700,
+    "views": 700886,
     "artist": "Shawn Mendes",
     "title": "Treat You Better",
     "duration": 203,
@@ -137,7 +137,7 @@
   },
   {
     "genre": "Hip Hop",
-    "views": 400,
+    "views": 400090,
     "artist": "Kanye West",
     "title": "Stronger",
     "duration": 311,
@@ -145,7 +145,7 @@
   },
   {
     "genre": "Pop",
-    "views": 600,
+    "views": 600835,
     "artist": "Bruno Mars",
     "title": "Just the Way You Are",
     "duration": 221,
@@ -153,7 +153,7 @@
   },
   {
     "genre": "Rock",
-    "views": 800,
+    "views": 812400,
     "artist": "Guns N' Roses",
     "title": "Sweet Child o' Mine",
     "duration": 355,
@@ -161,7 +161,7 @@
   },
   {
     "genre": "Electronic",
-    "views": 500,
+    "views": 546300,
     "artist": "Avicii",
     "title": "Wake Me Up",
     "duration": 247,
@@ -169,7 +169,7 @@
   },
   {
     "genre": "Pop",
-    "views": 550,
+    "views": 553480,
     "artist": "Ariana Grande",
     "title": "Thank U, Next",
     "duration": 213,
@@ -177,7 +177,7 @@
   },
   {
     "genre": "Hip Hop",
-    "views": 600,
+    "views": 602340,
     "artist": "Drake",
     "title": "In My Feelings",
     "duration": 320,
@@ -185,7 +185,7 @@
   },
   {
     "genre": "Electronic",
-    "views": 400,
+    "views": 403110,
     "artist": "Marshmello",
     "title": "Happier",
     "duration": 214,
@@ -193,7 +193,7 @@
   },
   {
     "genre": "R&B",
-    "views": 300,
+    "views": 303130,
     "artist": "Beyoncé",
     "title": "Crazy in Love",
     "duration": 229,
@@ -201,7 +201,7 @@
   },
   {
     "genre": "Rock",
-    "views": 600,
+    "views": 600444,
     "artist": "The Beatles",
     "title": "Hey Jude",
     "duration": 431,
@@ -209,7 +209,7 @@
   },
   {
     "genre": "Hip Hop",
-    "views": 350,
+    "views": 353540,
     "artist": "Eminem",
     "title": "Lose Yourself",
     "duration": 326,
@@ -217,7 +217,7 @@
   },
   {
     "genre": "R&B",
-    "views": 400,
+    "views": 340400,
     "artist": "Rihanna",
     "title": "Work",
     "duration": 219,
@@ -225,7 +225,7 @@
   },
   {
     "genre": "Rock",
-    "views": 550,
+    "views": 532350,
     "artist": "The Rolling Stones",
     "title": "Satisfaction",
     "duration": 232,
@@ -233,7 +233,7 @@
   },
   {
     "genre": "Hip Hop",
-    "views": 400,
+    "views": 490500,
     "artist": "Post Malone",
     "title": "Circles",
     "duration": 214,
@@ -241,7 +241,7 @@
   },
   {
     "genre": "R&B",
-    "views": 600,
+    "views": 604420,
     "artist": "The Weeknd",
     "title": "Blinding Lights",
     "duration": 200,
@@ -249,7 +249,7 @@
   },
   {
     "genre": "Pop",
-    "views": 700,
+    "views": 732400,
     "artist": "Shawn Mendes",
     "title": "Señorita",
     "duration": 190,
@@ -257,7 +257,7 @@
   },
   {
     "genre": "Electronic",
-    "views": 400,
+    "views": 408590,
     "artist": "Calvin Harris",
     "title": "This Is What You Came For",
     "duration": 222,
@@ -265,7 +265,7 @@
   },
   {
     "genre": "R&B",
-    "views": 600,
+    "views": 606370,
     "artist": "Michael Jackson",
     "title": "Billie Jean",
     "duration": 293,
@@ -273,7 +273,7 @@
   },
   {
     "genre": "Hip Hop",
-    "views": 550,
+    "views": 553870,
     "artist": "Travis Scott",
     "title": "SICKO MODE",
     "duration": 312,
@@ -281,7 +281,7 @@
   },
   {
     "genre": "Rock",
-    "views": 300,
+    "views": 300342,
     "artist": "Red Hot Chili Peppers",
     "title": "Under the Bridge",
     "duration": 265,
@@ -289,7 +289,7 @@
   },
   {
     "genre": "R&B",
-    "views": 450,
+    "views": 454340,
     "artist": "The Weeknd",
     "title": "Starboy",
     "duration": 230,
@@ -297,7 +297,7 @@
   },
   {
     "genre": "Hip Hop",
-    "views": 350,
+    "views": 353230,
     "artist": "J. Cole",
     "title": "Middle Child",
     "duration": 213,
@@ -409,18 +409,18 @@
   },
   {
     "genre": "Punk",
-    "views": "11235",
+    "views": 11235,
     "artiste": "The Clash",
     "title": "London Calling",
-    "duration": "201",
+    "duration": 201,
     "record_label": "CBS Records"
   },
   {
     "genre": "indie",
-    "views": "13237",
+    "views": 13237,
     "artiste": "Arcade Fire",
     "title": "Wake Up",
-    "duration": "336",
+    "duration": 336,
     "record_label": "Merge Records"
   },
   {
@@ -497,10 +497,10 @@
   },
   {
     "genre": "Reggaeton",
-    "views": "23247",
+    "views": 23247,
     "artiste": "Luis Fonsi",
     "title": "Despacito",
-    "duration": "229",
+    "duration": 229,
     "record_label": "Universal Music Latin"
   }
 ]
