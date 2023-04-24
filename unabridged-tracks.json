@@ -224,28 +224,12 @@
     "record_label": "Roc Nation"
   },
   {
-    "genre": "Rock",
-    "views": 450,
-    "artist": "Led Zeppelin",
-    "title": "Stairway to Heaven",
-    "duration": 482,
-    "record_label": "Atlantic Records"
-  },
-  {
     "genre": "Electronic",
     "views": 600,
     "artist": "Calvin Harris",
     "title": "Summer",
     "duration": 221,
     "record_label": "Columbia Records"
-  },
-  {
-    "genre": "Hip Hop",
-    "views": 500,
-    "artist": "Kendrick Lamar",
-    "title": "HUMBLE.",
-    "duration": 177,
-    "record_label": "Top Dawg Entertainment"
   },
   {
     "genre": "R&B",
